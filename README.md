@@ -362,10 +362,8 @@ A: Go to Summary → Print or export to PDF → Email to finance/admin team → 
 
 ## 📞 Contact
 
-For customization or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
