@@ -360,10 +360,6 @@ A: Yes, each sheet has 155+ rows → Add new rows as needed → All calculations
 **Q: How to send monthly reports?**
 A: Go to Summary → Print or export to PDF → Email to finance/admin team → Archive for audit
 
-## 📞 Contact
-
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
